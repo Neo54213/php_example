@@ -1,0 +1,7 @@
+1476503137|/|
+1476503148|/|
+1476503150|/index.php?id=contact|http://mysite.local/
+1476503152|/index.php?id=about|http://mysite.local/index.php?id=contact
+1476503153|/index.php?id=info|http://mysite.local/index.php?id=about
+1476503155|/index.php?id=gbook|http://mysite.local/index.php?id=info
+1476503157|/index.php?id=log|http://mysite.local/index.php?id=gbook
